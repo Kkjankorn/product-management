@@ -25,15 +25,15 @@ Full-stack Product Management System
 
 1. Clone repository:
 
-```bash
-git clone https://github.com/Kkjankorn/product-management
-cd product-management
+
+`git clone https://github.com/Kkjankorn/product-management`<br>
+`cd product-management`
 
 2. สร้างและรัน container ทั้งหมด:
 
-docker compose up --build
+`docker compose up --build`
 
 3. รอจนระบบพร้อม
 
-Frontend: http://localhost:5173
+Frontend: http://localhost:5173 <br>
 Backend API: http://localhost:5000
